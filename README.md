@@ -5,12 +5,12 @@ Scorpan is a mnemonic for an empirical quantitative descriptions of relationship
 
 S = f(s,c,o,r,p,a,n), where
 
-S = soil classes or attributes (to be modeled)
-f = function
-s = soil, other or previously measured properties of the soil at a point
-c = climate, climatic properties of the environment at a point
-o = organisms, including land cover and natural vegetation or fauna or human activity
-r = relief, topography, landscape attributes
-p = parent material, lithology
-a = age, the time factor
-n = spatial or geographic position
+1. S = soil classes or attributes
+2. f = function
+3. s = soil, other or previously measured properties of the soil at a point
+4. c = climate, climatic properties of the environment at a point
+5. o = organisms, including land cover and natural vegetation or fauna or human activity
+6. r = relief, topography, landscape attributes
+7. p = parent material, lithology
+8. a = age, the time factor
+9. n = spatial or geographic position
